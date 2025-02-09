@@ -9,10 +9,9 @@ Boss Death Timer is a Vanilla World of Warcraft addon that provides a simple cou
   Change font size, damage thresholds, and update intervals to fit your style.
 - **Alert Colors:**  
   The timer changes color as the boss nears death to catch your eye.
-- **Simple Commands:**  
-  Use chat commands like `/bdt toggle`, `/bdt fontsize`, `/bdt health`, and more to customize your experience.
 
-![preview](bdt1.png)
+
+![preview](bdt1.jpg)
 
 ## Installation (Vanilla, 1.12)
 1. Download **[Latest Version](https://github.com/ZenSociety/BossDeathTimer/archive/master.zip)**
