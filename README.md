@@ -2,11 +2,15 @@
 Boss Death Timer is a Vanilla World of Warcraft addon that provides a simple countdown timer displayed on the Boss enemy’s target frame. It estimates the remaining time until the boss dies based on the damage taken over time during combat.
 
 ## Features
-Countdown Timer: Displays an estimated remaining time (in HH:MM:SS) for boss death based on damage and health over time.
-Adjustable Settings: Configure font size, minimum damage threshold, calculation intervals, and alert seconds.
-Alert Colors: The timer color changes as the estimated boss death time nears specific threshold values.
-Slash Commands: Easily control the addon using commands like /bdt toggle, /bdt fontsize, /bdt health, /bdt average, /bdt add, and /bdt delete.
-Learn More: Get a report after a boss’s death with a comparison between estimated and actual time results and tips to improve accuracy.
+
+- **Countdown Timer:**  
+  Shows an easy-to-read timer that estimates when the boss will die.
+- **Adjustable Settings:**  
+  Change font size, damage thresholds, and update intervals to fit your style.
+- **Alert Colors:**  
+  The timer changes color as the boss nears death to catch your eye.
+- **Simple Commands:**  
+  Use chat commands like `/bdt toggle`, `/bdt fontsize`, `/bdt health`, and more to customize your experience.
 
 ![preview](bdt1.png)
 
