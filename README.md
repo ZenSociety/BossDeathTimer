@@ -2,7 +2,17 @@
 A lightweight (16kb) WoW v1.12 addon with no dependencies, providing a simple countdown timer to help you **estimate boss death time** and **time your spell cooldowns**.
 
 # Boss Death Timer
-A lightweight (16kb) WoW v1.12 addon with no dependencies, providing a simple countdown timer to help you <font color=Oringe>**estimate boss death time**</font> and **time your spell cooldowns**.
+A lightweight (16kb) WoW v1.12 addon with no dependencies, providing a simple countdown timer to help you 
+
+\`\`\`diff
++ **estimate boss death time**
+\`\`\`
+
+and
+
+\`\`\`diff
++ **time your spell cooldowns**.
+\`\`\`
 
 ## Features
 
