@@ -107,8 +107,8 @@ local function SetupDefault()
 	if DCT_FONTSIZE then
 		ChangeFontSize(DCT_FONTSIZE);
 	else
-		ChangeFontSize(20);
-		DCT_FONTSIZE = 20;
+		ChangeFontSize(25);
+		DCT_FONTSIZE = 25;
 	end;
 	if DCT_MINDMG then
 		MinimumDamageThreshold = DCT_MINDMG;
@@ -313,7 +313,7 @@ SlashCmdList.BOSSDEATHTIMER = function(msg)
 			Print("You CANNOT do this action in COMBAT");
 			return;
 		end;
-		DCT_FONTSIZE = 20;
+		DCT_FONTSIZE = 25;
 		DCT_MINDMG = 1000;
 		DCT_INTERVAL = 40;
 		DCT_ALERT_SECONDS = ALERT_SECONDS_DEFAULT;

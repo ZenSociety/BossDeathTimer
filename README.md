@@ -1,5 +1,5 @@
 # Boss Death Timer
-Boss Death Timer is a Vanilla World of Warcraft addon that provides a simple countdown timer displayed on the Boss enemy’s target frame. It estimates the remaining time until the boss dies based on the damage taken over time during combat.
+A lightweight (16kb) WoW v1.12 addon with no dependencies, providing a simple countdown timer to help you **estimate boss death time** and **time your spell cooldowns**.
 
 ## Features
 
