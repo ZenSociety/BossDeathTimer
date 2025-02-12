@@ -11,7 +11,7 @@ A lightweight (16kb) WoW v1.12 addon with no dependencies, providing a simple co
   The timer changes color as the boss nears death to catch your eye.
 
 
-![preview](bdt1.jpg)
+![preview](https://raw.githubusercontent.com/ZenSociety/ProjectImagesVault/refs/heads/main/bdt1.jpg)
 
 ## Installation (Vanilla, 1.12)
 1. Download **[Latest Version](https://github.com/ZenSociety/BossDeathTimer/archive/master.zip)**
